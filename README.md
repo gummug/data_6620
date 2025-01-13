@@ -1,6 +1,5 @@
 # Impact of Student Engagement on Job Placement & Starting Salary
 
-
 ## Description
 
 The Dean’s Office of the Jon M. Huntsman School of Business, utlizies
