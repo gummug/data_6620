@@ -1,11 +1,11 @@
 ---
-title: "ASC Template"
+title: "Impact of Student Engagement on Job Placement & Starting Salary"
 format: gfm
 ---
 
 ## Description
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+The Dean's Office of the Jon M. Huntsman School of Business, utlizies Salesforce to collect recruitment, enrollment, and post-graduation data on students. We seek to understand how a student's involvement with extracurricular activities, particularly corporate partner engagements, impact workforce placement and starting salary. With this data, we aim to understand the efficacy of corporate partner engagements as it relates to successful student outcomes (i.e., job secured post-graduation, industry-standard starting salary, etc.)
 
 ## Project Organization
 
