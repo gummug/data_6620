@@ -14,6 +14,9 @@
 output/*
 private/*
 
+# Data
+data/*.xlsx
+
 # Files
 *.pdf
 code/src/*
