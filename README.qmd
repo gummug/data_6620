@@ -23,6 +23,11 @@ The Dean's Office of the Jon M. Huntsman School of Business, utlizies Salesforce
 
 **Data Presentation**: To ensure the findings are both accessible and actionable, an interactive dashboard could be developed that showcases key metrics, such as event attendance trends, job placement rates, and salary distributions. Simplifying complex analyses—like propensity score matching—into clear visuals or brief summaries would help non-technical stakeholders understand how engagement impacts student outcomes. Sharing statistical findings in student-facing messaging could further underscore the real-world benefits of attending events, while concise executive summaries would enable leadership to quickly grasp the main conclusions and decide on resource allocation.
 
+## Directed Acyclic Graph (DAG)
+
+![Impact of Student Engagement on Job Placement & Starting Salary DAG](/figures/dag_v1.png)
+
+
 ## Project Organization
 
 - `/code` Scripts with prefixes (e.g., `01_import-data.py`, `02_clean-data.py`) and functions in `/code/src`.
