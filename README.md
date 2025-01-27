@@ -82,6 +82,11 @@ underscore the real-world benefits of attending events, while concise
 executive summaries would enable leadership to quickly grasp the main
 conclusions and decide on resource allocation.
 
+## Directed Acyclic Graph (DAG)
+
+![Impact of Student Engagement on Job Placement & Starting Salary
+DAG](./figures/dag_v1.png)
+
 ## Project Organization
 
 - `/code` Scripts with prefixes (e.g., `01_import-data.py`,
